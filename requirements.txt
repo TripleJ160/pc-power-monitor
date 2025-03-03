@@ -1,0 +1,7 @@
+# Core dependencies
+pythonnet>=3.0.0  # For LibreHardwareMonitor access
+psutil>=5.9.0     # For system information
+matplotlib>=3.5.1 # For graphing
+pillow>=9.0.0     # For image handling in Tkinter
+pywin32>=303      # For Windows-specific functionality
+wmi>=1.5.1        # For Windows Management Instrumentation access
